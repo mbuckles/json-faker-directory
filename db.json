@@ -1,18 +1,7 @@
 {
     "profiles": [
-    { id": 1,
-      "name": "Morty",
-      "age": 46
-  },
-  {
-    "id": 2,
-    "name": "Maria",
-    "age": 45
-  },
-  {
-    "id": 3,
-    "name": "Jada",
-    "age": 17
-  }
-]
+    { "id": 1, "name": "Morty", "age": 46},
+    { "id": 2, "name": "Maria", "age": 45},
+    { "id": 3, "name": "Jada", "age": 17}
+    ]
 }
